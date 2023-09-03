@@ -1,0 +1,17 @@
+p.world{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+     
+}
+label{
+    color: midnightblue;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    list-style-type: square;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
